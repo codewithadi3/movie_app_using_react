@@ -1,0 +1,6 @@
+.search .placeholder-text {
+  font-family: 'DM Sans', sans-serif;  /* Set font family */
+  font-size: 16px;                     /* Set font size */
+  font-weight: bold;                   /* Set font weight */
+  color: red;                          /* Set color */
+}
